@@ -1,4 +1,4 @@
-# 🚀 Data-Driven Sales Insights for an E-commerce Platform
+# Data-Driven Sales Insights for an E-commerce Platform
 
 ## About the Project
 
@@ -7,7 +7,7 @@ This project is a hands-on analysis of sales, customer behavior, and delivery pe
 Over the course of this project, I explored how customers interact with the platform, what patterns exist in purchases and cancellations, and how key metrics like revenue, discounts, and user retention can be tracked and improved.
 
 ---
-## 🔍 What I Did
+## What I Did
 
 - Wrote SQL queries to calculate more than **25+ business KPIs**
 - Analyzed customer trends (e.g., who placed orders within 7 days of signup)
@@ -19,7 +19,7 @@ Over the course of this project, I explored how customers interact with the plat
 
 ---
 
-## 🧰 Tools & Skills Used
+## Tools & Skills Used
 
 - **SQL**: Joins, CTEs, window functions, aggregations, filtering
 - **CSV**: Raw data files used for simulation
@@ -27,7 +27,7 @@ Over the course of this project, I explored how customers interact with the plat
 
 ---
 
-## 🤝 Why This Project Matters
+## Why This Project Matters
 
 This isn’t just a set of queries — it’s built to simulate the kind of thinking, problem-solving, and communication you'd need as a Data Analyst in a real company.
 
@@ -35,7 +35,7 @@ The goal was to treat it like a mini case-study: not just “write a query,” b
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 Hi! I'm **Prakash Anand**, and I'm passionate about turning raw data into clear, useful insights.  
 I’ve worked on several hands-on projects like this, combining SQL, Python, and storytelling.
